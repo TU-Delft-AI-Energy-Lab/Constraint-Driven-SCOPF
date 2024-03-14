@@ -2,7 +2,12 @@
 
 Code related to the submission of
 
-- B.N. Giraud, A. Rajaei, J.L. Cremer. "Constraint-Driven Deep Learning for N-k Security Constrained Optimal Power Flow". Submitted to IEEE Power System Computing Conference 2024.
+B.N. Giraud, A. Rajaei, J.L. Cremer. "Constraint-Driven Deep Learning for N-k Security Constrained Optimal Power Flow". Submitted to IEEE Power System Computing Conference 2024.
+
+## License
+   
+This work is licensed under a
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 # Code structure
 
