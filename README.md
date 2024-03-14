@@ -1,4 +1,4 @@
-# Constraint-Driven-Deep Learning for Probabilistic SCOPF considering k-faults
+# Constraint-Driven Deep Learning for Probabilistic SCOPF considering k-faults
 
 Code related to the submission of
 
